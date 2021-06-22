@@ -1,19 +1,23 @@
-# covid-tracker
+# COVID Tracker
 
-## Project setup
-```
-npm install
-```
+Track stats for COVID-19.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Getting Started
 
-### Compiles and minifies for production
-```
-npm run build
+### Install dependencies
+
+```bash
+> npm install
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Run server
+
+```bash
+> npm run serve
+```
+
+### Build for production
+
+```bash
+> npm run build
+```
